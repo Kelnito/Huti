@@ -8,7 +8,7 @@ from fastapi import FastAPI, UploadFile, File
 
 import components, gdown
 
-app = FastAPI(title="Hantu Model")
+app = FastAPI(title="Hut Model")
 
 labeler = ['Kertas', 'Batu', 'Gunting']
 
